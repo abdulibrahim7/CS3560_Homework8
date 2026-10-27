@@ -1,4 +1,4 @@
-package org.example.decorator;
+package org.example.bridge.decorator;
 
 /** A topping IS a FoodItem and HAS a wrapped FoodItem. */
 public abstract class FoodDecorator implements FoodItem {

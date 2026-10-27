@@ -1,4 +1,4 @@
-package org.example.decorator;
+package org.example.bridge.decorator;
 
 public class HotDog implements FoodItem {
     @Override

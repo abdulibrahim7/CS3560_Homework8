@@ -1,4 +1,4 @@
-package org.example.decorator;
+package org.example.bridge.decorator;
 
 import java.util.ArrayList;
 import java.util.List;

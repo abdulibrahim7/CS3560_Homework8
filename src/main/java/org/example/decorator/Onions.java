@@ -1,4 +1,6 @@
-package org.example.decorator;
+package org.example.bridge.decorator;
+
+import org.example.decorator.FoodDecorator;
 
 public class Onions extends FoodDecorator {
     public Onions(FoodItem foodItem) {

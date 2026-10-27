@@ -1,4 +1,7 @@
-package org.example.decorator;
+package org.example.bridge.decorator;
+
+import org.example.decorator.FoodDecorator;
+import org.example.decorator.FoodItem;
 
 public class Ketchup extends FoodDecorator {
     public Ketchup(FoodItem foodItem) {
